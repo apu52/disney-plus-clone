@@ -1,10 +1,32 @@
 
 <h1 align="center">Disney Plus Clone</h1>
-
-
 <p align="center">
   A clone of the popular streaming platform Disney Plus, built using React and Tailwind CSS.
 </p>
+
+<div align="center">
+ <p>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AyishikD%2Fdisney-plus-clone%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/AyishikD/disney-plus-clone)
+![GitHub Repo stars](https://img.shields.io/github/stars/AyishikD/disney-plus-clone)
+![GitHub contributors](https://img.shields.io/github/contributors/AyishikD/disney-plus-clone)
+![GitHub last commit](https://img.shields.io/github/last-commit/AyishikD/disney-plus-clone)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AyishikD/disney-plus-clone)
+
+![Github](https://img.shields.io/github/license/AyishikD/disney-plus-clone)
+![GitHub issues](https://img.shields.io/github/issues/AyishikD/disney-plus-clone)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/AyishikD/disney-plus-clone)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AyishikD/disney-plus-clone)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AyishikD/disney-plus-clone)
+
+ </p>
+ </div>
+
+
 
 ## Features
 
